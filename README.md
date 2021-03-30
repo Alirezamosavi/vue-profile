@@ -1,3 +1,7 @@
+Adding User Profile  ( Vue + Laravel)
+
+Video link
+https://youtu.be/7eEexmDbrhw
 
 1. install make image for Framework so then write in terminal 
   composer require intervention/image   ( i do that already because it take sometime but you do  )
